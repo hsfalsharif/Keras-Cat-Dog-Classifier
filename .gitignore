@@ -1,0 +1,9 @@
+.vscode/
+kagglecatsanddogs_5340/
+dev_notes.txt
+pylintrc
+train_set.pickle
+test_set.pickle
+testing.py
+main.py
+kagglecatsanddogs.zip
